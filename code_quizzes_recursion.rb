@@ -4,8 +4,9 @@ def pali(str)
 
   return false if str.length % 2 != 0
   middle = str.length / 2
+  left = str[]
   end = str[str.length -1]
-  
+
 
 
   
